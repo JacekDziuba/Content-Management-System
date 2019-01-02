@@ -1,2 +1,10 @@
 # CMS---Content-Management-System
-Simple application that uses SpringBoot, Hibernate and MySql. CRUD functionalities.
+Simple application that uses 
+
+- SpringBoot
+
+- Hibernate 
+
+- MySql. 
+
+CRUD functionalities.
