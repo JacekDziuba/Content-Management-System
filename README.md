@@ -5,6 +5,6 @@ Simple application that uses
 
 - Hibernate 
 
-- MySql. 
+- MySql
 
 CRUD functionalities.
